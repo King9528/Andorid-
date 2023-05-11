@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login Module</string>
+    <string name="empty_user_pass">Username or password cannot be empty!</string>
+</resources>
